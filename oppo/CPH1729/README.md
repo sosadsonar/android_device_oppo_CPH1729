@@ -1,4 +1,4 @@
-# Android device tree for OPPO OPPO A83js (M6763D)
+# Android device tree for OPPO OPPO A83 (CPH1729)
 
 ```
 #
